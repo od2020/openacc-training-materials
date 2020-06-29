@@ -18,7 +18,7 @@ $ pgaccelinfo
 
 Our goal for this lab is to use the OpenACC Data Directives to properly manage our data.
   
-<img src="/files/lab2/English/images/development_cycle.png" alt="OpenACC development cycle" width="50%">
+<img src="../images/development_cycle.png" alt="OpenACC development cycle" width="50%">
 
 This is the OpenACC 3-Step development cycle.
 
